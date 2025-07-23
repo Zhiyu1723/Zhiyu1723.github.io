@@ -1,5 +1,5 @@
 title: 杨智瑜的一座山
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+description: 意欲梦佳期。梦里关山路不知，却待短书来破恨，应迟。还是凉生玉枕时。
 author: 杨智瑜
 avatar: /logo.jpg
 email: youaya1723@hotmail.com
@@ -40,7 +40,7 @@ social:
     - https://www.facebook.com/ngzhio
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: zh
 
 plugins:
   - jekyll-remote-theme
