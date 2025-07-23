@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 
 paginate: 10
 
@@ -42,7 +43,5 @@ social:
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
-plugins:
-  - jekyll-remote-theme
 
 remote_theme: ngzhio/jekyll-theme-hamilton
