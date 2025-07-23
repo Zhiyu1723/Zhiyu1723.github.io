@@ -2,11 +2,11 @@
   url: /about/
 - title: 年份
   url: /years/
-- title: Categories
+- title: 分类
   url: /categories/
 - title: 标签
   url: /tags/
-- title: More
+- title: 更多
   sublinks:
     - title: FAQ
       url: /faq/
