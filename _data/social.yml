@@ -1,9 +1,9 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/Zhiyu1723
   icon: fab fa-github
 - title: Bilibili
   url: https://space.bilibili.com/493453286
   icon: fa-brands fa-bilibili
+- title: Zhihu
+  url: https://www.zhihu.com/people/gai-zhang-hu-yi-zhu-xiao-92
+  icon: fa-brands fa-zhihu
